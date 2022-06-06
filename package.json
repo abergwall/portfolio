@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@abergwall/natlon-ui": "^0.0.38",
+    "abergwall/natlon-ui": "git+ssh://github.com:abergwall/natlon-ui.git",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
